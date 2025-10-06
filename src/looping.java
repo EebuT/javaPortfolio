@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class loopingInJava {
+public class looping {
  public static void main(String[] args ) {
     // A program that asks user for numbers until they enter 0
 

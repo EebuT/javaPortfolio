@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifStatementsJava {
+public class ifStatements {
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("Please insert an integer number between -100 and 100: ");
