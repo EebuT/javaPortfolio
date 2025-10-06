@@ -1,18 +1,5 @@
-## Getting Started
+This is a repository used to track my progression in programming Java, that will also serve as a portfolio for future endeavors.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I will first follow a 12-week program made by ChatGPT with the prompt "Hello chat! I was wondering if you would help me plan a roadmap for making a Java portfolio. I'm looking to get a job at a robotics firm that mainly uses Java and Oracle/SQL. I need to make a comprehensive portfolio during the next 12 weeks. I need to balance it with work and school. Any good project ideas?", followed by more specifications to get the little things right
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This portfolio will display my progress from the very basics up to finsishing my first larger project.
